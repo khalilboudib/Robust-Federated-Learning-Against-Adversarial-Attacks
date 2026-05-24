@@ -1,0 +1,2 @@
+# Ignore CheXpert dataset files
+/data/raw/CheXpert-v1.0-small/
